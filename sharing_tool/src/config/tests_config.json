@@ -1,0 +1,19 @@
+{
+  "driver": {
+          "browser": "Chrome",
+          "headless": false,
+          "implicit_wait": 2,
+          "window_size": {
+            "width": 1920,
+            "height": 1080
+          }
+  },
+  "accounts": {
+    "user1":{
+      "email_phone": "lanano5873@regapts.com",
+      "pass": "Rumegus1308#"
+    }
+
+  },
+  "post": "https://www.facebook.com/andreea.spafiu.1/posts/pfbid035P66LisXkKYHBQP4iHJKiXN7Rqqz6NLG8zmSm2WkbV9XbbeCubCBF5b4FTTFgFR3l "
+}
