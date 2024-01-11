@@ -1,0 +1,6 @@
+Steps:
+1. Run the instal_req.bat file as admin 
+2. In the resource folder there is an excel called users. open it and add users emails and passwords on the rows starting from second row
+	!!! do not change or modify row 1 
+3. Run start.bat and provide in the terminal the URL of the post and the time between user sharing. 
+4. In the Reports folder there will be generated a new txt file containing details about the users for which the sharing process was successful. If for any reason the process fails it will continue with the next user and it will not add a new entry in the txt file. 
